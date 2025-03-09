@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(77, 77, 77);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.74)),
+    url(https://images4.alphacoders.com/692/thumb-1920-692043.jpg);
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    position: absolute;
+    top: 0;
+    margin: 20px;
+}
+p {
+    font-size: 20px;
+    margin: 5px;
+    font-family:  'Roboto', sans-serif;
+}
+button{
+    background-color: rgb(80, 80, 80);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
